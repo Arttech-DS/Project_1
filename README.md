@@ -1,2 +1,2 @@
 # Project_1
-hello world
+It's code for my school project. 09.12.23
